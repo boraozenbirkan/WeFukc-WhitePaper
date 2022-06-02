@@ -24,7 +24,7 @@ FUKC token distribution - NO TOKEN SALE
 * 8% - Game Development |--- 2 Yrs DLV
 * 8% - Community Rewards  |--- 2 Yrs DLV
 * 8% - Marketing |--- 2 Yrs DLV
-* 4% - Airdrop for Testers |--- 8.3% TGE,
+* 4% - Airdrop for Testers |--- 10% TGE,
 * 16% - Team |--- 2 Yrs DLV
 * 6% - Advisors |--- 2 Yrs DLV
 
@@ -32,19 +32,34 @@ OR (more decentralized)
 
 * 80% - Voting Rewards |--- 5 Yrs DLV
 * 5% - Game Development |--- 2 Yrs DLV
-* 5% - Community Rewards  |--- 2 Yrs DLV
-* 5% - Marketing |--- 2 Yrs DLV
-* 4% - Airdrop for Testers |--- 8.33% TGE, 8.33% monthly unlock, 1 Yr MLV
+* 5% - Community Tresuary |--- 10% TGE, 2 Yrs DLV
+* 5% - Marketing |--- 10% TGE, 2 Yrs DLV
+* 4% - Airdrop|--- 10% TGE, 1 Yr MLV
 * 1% - Team |--- 2 Yrs DLV (+1% for each team member and +0.25% for each advisor. Those will be cut from voting rewards)
 
+(DLV: Daily Linear Vesting, MLV: Monthly Linear Vesting, TGE: Token Generation Event)
+
+Where does it goes actually?
+
+* Voting Reward: To voters
+* Game Development: The development of the game over years
+* Community Tresuary: Liquidity Providers, Staking rewards, event rewards. 10% TGE unlock for Liquidty
+* Marketing: Marketing events, partnerships, etc. 10% TGE unlock for initial marketing campaign
+* Airdrop: Airdrop for testnet participants and alpha test participants.
+* Team: Founding and non-founding team members including advisors will share this allocation.
+
+
+
 \
-**Inflation for 5 years:**
+**Inflation for 5 years: RECALCULATE !!!!**
 
 * 4 -> 37 | 825% OR 4 -> 28 | 600%
 * 37 -> 70 | 90% OR 28 -> 52 | 85%
 * 70 -> 80 | 14% OR 52 -> 68 | 30%
 * 80 -> 90 | 12 % OR 68 -> 84 | 24%
 * 90 -> 100 | 11% OR 84 -> 100 | 19%
+
+
 
 \
 \
@@ -66,6 +81,8 @@ We give exponentially more reward to higher levels. Therefore, they can provide 
   * demotivate potential bots
   * distribute the reward more equally
 * Profit Index: Every level selection will have a profit index to warn or encourage people about the profit/loss they can get. If people lock too many&#x20;
+* Boss
+  * The level Boss should have a fukcing background to set. People can choose unique or viral backgrounds.
 * **Future Implementations:**
   * Multiplayer
     * 3-5 players start together to the level and the first one who reaches the boss, fuks. Players can't damage each other and the difficulty of the level's paths will reset for each game.
@@ -84,12 +101,15 @@ We give exponentially more reward to higher levels. Therefore, they can provide 
 **Tier-base Contribution Reward(TCR):** 10% of what people earn will go to their up-tier. People will pass 50% of what they earn from their down-tier to their up-tier  if it is greater than 1 FUKC. If it is equal or less than 1 FUKC, no TX. This will happen after every seance.  For instance, if you have earned 100 FUKC in a seance, you'll receive 90 FUKC and pass 25 FUKC to your up-tier. Your up-tier will receive 10 FUKC but pass 5 FUKC to its uptier and actually receive 5 FUKC. Everyone can only have one up-tier but limitless down-tier. This tier-based contribution reward system encourages people to invite other people to the game. You can always add, delete or change your up-tier. If you don't have any up-tier, your tokens TCR tokens burn. You can't change, delete, or add any down-tier. People who registers with your tier code will be your down-tier. They can select you as their up-tier after registeration.\
 
 
-****
+## Problems
 
-**Notes for this project:**
+* Liquidity Pool problem
+
+## **Notes for this project:**
 
 * Like hodl and buidl, we will use Fukc instead of Fuck. This will avoid censorship for the bad word and suit crypto terms.
 * Motto: Let's Fukc! | PoF system: Proof-of-Fukc
+* Our logo: Black Heart
 * We will store the character data in both IPFS and our servers to have an efficient system. When people mint a character, they will have its NFT with metadata that is stored in IPFS but when they play the game we will send the data directly from our server to provide better performance.
 * There will be lists like "Most Fukced", "Best Fukcer" and some medals like "The Best Fukcer of Seance #35" or "Serial Fukcer"
 * Aspects of the game

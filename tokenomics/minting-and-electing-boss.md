@@ -1,6 +1,6 @@
-# Minting Boss and Voting
+# Minting and Electing Boss
 
-Every level has its own level boss. Boss elections are the backbone of We Fukc. Players will elect a new boss for each level for each seance. Voters will choose the boss by funding it.&#x20;
+Every level has its own level boss. Boss elections are the backbone of We Fukc. Players will elect a new boss for each level for each seance. Backers will elect the boss by funding it.&#x20;
 
 The most funded boss will be elected for the following seance and the funds of other bosses **who lost** elections will burn. Some of the funds of the **elected** boss will burn and the rest of it will be distributed as a reward. You can check the [Boss Reward](boss-rewards.md) for the details about the distribution of the funds of the elected bosses.
 
@@ -62,17 +62,17 @@ You can find existing bosses from the boss list. Once you select a boss from the
 
 ### Electing Boss
 
-The election of a boss is similar to the selection of it. Voters choose a candidate from the candidate list and fund it. Once the election end, the most funded boss will be the boss of that level in the following seance. The fund of the bosses that lost the elections will burn. So it is important to be careful!
+The election of a boss is similar to the selection of it. Backers choose a candidate from the candidate list and fund it. Once the election end, the most funded boss will be the boss of that level in the following seance. The fund of the bosses that lost the elections will burn. So it is important to be careful!
 
-Some of the funds of the elected boss will burn and the remaining of it will be distributed as a reward to players, voters, the selector, and the creator of that boss. See details in [Boss Rewards.](boss-rewards.md)
+Some of the funds of the elected boss will burn and the remaining of it will be distributed as a reward to players, backers, the selector, and the creator of that boss. See details in [Boss Rewards.](boss-rewards.md)
 
 #### The difference between the selections and the elections
 
-Every boss has just one selector to make a candidate in the selections and every boss can be a candidate. On the other hand, everyone can be a voter for a specific boss and share all the rewards in the elections but only one boss can be elected.
+Every boss has just one selector to make a candidate in the selections and every boss can be a candidate. On the other hand, everyone can be a backer of a specific boss and share all the rewards in the elections but only one boss can be elected.
 
 Selections: **All bosses** can be candidates but **one account can be** a selector of it and have the selector reward for itself.
 
-Elections: **Only one boss** can be elected but **everyone can be** a voter of it and share the voter reward together.
+Elections: **Only one boss** can be elected but **everyone can be** a backer of it and share the backer reward together.
 
 {% hint style="danger" %}
 Be careful! Selecting and electing a boss is a high-risk, high-return action! You can lose your funds!

@@ -9,9 +9,9 @@
 ## Tokenomics
 
 * [FUKC Distribution](tokenomics/fukc-distribution.md)
-* [Minting Boss and Voting](tokenomics/minting-boss-and-voting.md)
+* [Minting and Electing Boss](tokenomics/minting-and-electing-boss.md)
 * [Boss Rewards](tokenomics/boss-rewards.md)
-* [Voter Rewards](tokenomics/voter-rewards.md)
-* [Earnings by Fukcing Bosses](tokenomics/earnings-by-fukcing-bosses.md)
+* [Backer Rewards](tokenomics/backer-rewards.md)
 * [Burn Mechanisms and Inflation](tokenomics/burn-mechanisms-and-inflation.md)
+* [Earnings by Fukcing Bosses](tokenomics/earnings-by-fukcing-bosses.md)
 * [Tier-Based Share System (TSS)](tokenomics/tier-based-share-system-tss.md)

@@ -14,26 +14,5 @@
   * encourage people to play higher levels
   * demotivate potential bots
   * distribute the reward more equally
-* Profit Index: Every level selection will have a profit index to warn or encourage people about the profit/loss they can get. If people lock too many&#x20;
-* Boss: At first, players will just change the name and the photo of the boss. But if we can have enough funds for development, players will start to change the whole fucking animation.
-  * Initial properties:
-    * Name
-    * A fukcing background to set. People can choose unique or viral backgrounds.
-    * 96x96 Photos: Profile and fukc photo.
-    * 96x96 Fukc profile animation. Eg. Crying boss on the right-upper corner.&#x20;
-    * Name Tag/space: This will be shown on the screen. Players will have this as well.
-    * Sound: Plays in the background during sex.&#x20;
-  * Future Implementations:
-    * The whole fucking animation
-* **Future Implementations:**
-  * Multiplayer
-    * 3-5 players start together to the level and the first one who reaches the boss, fukcs. Players can't damage each other and the difficulty of the level's paths will reset for each game.
-    * PvP Maps: Players start from different parts of the map. They kill each other and the last one fukcs the boss. We can have a new separate boss for this type of gameplay. Maps can include bots or not.
-  * Add hidden places as a bonus. Those hidden places should be randomly selected. But they would be on the most difficult paths more often.
-  * Having and upgrading armament like armor, sword, etc.
-  * Anti-bot protections.
-  * Procedural level generation: The system generates a procedural map and random difficulty with its different paths. Maps and their difficulties would change after the player completes the level. All players will have their own unique map. No daily reset. It resets after every win. Therefore, a new continues journey after each win.
-  * In the future, we can add fukc battles. 1vs1 or 5vs5 team battles. Players choose a character and upgrade it. Just like brawl stars, but if you lose your strength (health), you give up and get fucked! And people get your money!
-  * Again, after fukc battles, we can make tournaments.
-  * Another future might be betting. Betting can start at an early age. First, people can bet which character will get selected for the next seance, after the fukc battles, people can start betting on tournaments.
-  * There will be some player characters defined by us like Gorilla, humans, etc. We will add the feature of creating our own character with all animations later. From profile photos to all these personalizations will require FUKC to burn.
+
+Every week is a seance !!!

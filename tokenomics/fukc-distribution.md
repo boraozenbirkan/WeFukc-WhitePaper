@@ -1,3 +1,7 @@
+---
+description: Fukcing Token (FUKC)
+---
+
 # FUKC Distribution
 
 These were the tokens that come from character selection. The system will distribute new tokens to those who select the new character. Therefore, backers are the ones who get the token reward from the system. They will be the one who earns the most but they will also be the ones who take the risk of losing!

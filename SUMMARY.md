@@ -1,10 +1,10 @@
 # Table of contents
 
 * [We FUKC](README.md)
-* [Notes](notes.md)
 * [Gameplay](gameplay.md)
 * [Roles](roles.md)
 * [FAQ](faq.md)
+* [Notes](notes.md)
 
 ## Tokenomics
 

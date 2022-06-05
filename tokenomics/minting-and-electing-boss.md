@@ -64,6 +64,10 @@ Be careful, if someone else burns more than you have burned, you can't get your 
 
 You can find existing bosses from the boss list. Once you select a boss from the list, your boss will be displayed in the selection list of that level. Once the selection ends, selected bosses will be displayed in the candidate list.&#x20;
 
+{% hint style="info" %}
+The same boss can be selected for different levels in the same seance.
+{% endhint %}
+
 ### Electing Boss
 
 The election of a boss is similar to the selection of it. Backers choose a candidate from the candidate list and fund it. Once the election end, the most funded boss will be the boss of that level in the following seance. The fund of the bosses that lost the elections will burn. So it is important to be careful!

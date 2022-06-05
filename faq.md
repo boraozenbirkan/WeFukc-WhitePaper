@@ -8,3 +8,7 @@ A: To select a character, you need to burn some amount of token. The first level
 Q: How much people will earn for each character they fukc.&#x20;
 
 A: It depends on 3 main parameters: how many people can fuck the character, how many tokens burned for that character to choose, and the level. The reward will be distributed among all the fuckers after each seance. For instance, if 100 people fucks a character for just one time, the reward will be distributed to these 100 people equally. Your reward will increase as you fuck the same character.
+
+Q: Why it is "Fukc" instead of "Fuck"?
+
+A: We are the crypto community. We hodl, we buidl, and we fukc!

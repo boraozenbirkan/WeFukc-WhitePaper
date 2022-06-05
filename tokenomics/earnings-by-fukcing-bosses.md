@@ -27,7 +27,12 @@ Reward Rate resets to 1 every day at 12 AM (GMT). But levels you unlocked will r
 {% endhint %}
 
 {% hint style="success" %}
-This mechanism is preventing bots to earn 7/24 and equalizes earning among all players.&#x20;
+Reward Rate Mechanism
+
+* encourages players to play a decent amount of time. Not all day.
+* encourages players to play at higher levels. Distributing skills well.
+* discourages the potential bots.
+* distribute the reward more fairly.
 {% endhint %}
 
 There will be other mechanisms to prevent future bots to exploit the treasury. The **Reward Rate Mechanism** is protective enough for the short and mid-term and almost none of the P2E games has a mechanism like this. You can be sure that we will continue to increase our protection of players as we proceed.

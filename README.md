@@ -1,14 +1,22 @@
 # We FUKC
 
-A pixel game where people fight against creatures to fukc boss of the level. There will be multiple levels and each level will have different characters. Each character will have its own profile and there will be a list of characters. Every week, people will choose a character from that list for a specific level to fuck. People can either choose a character from that list or can create a new character to list. Every character profile will have a profile photo, animations (run, fuck, etc.), and sounds (SFX and Music). When people want to create a new character, they will choose a base character to inherit all the properties. They can either choose a default character or a character from the character list and change all or some of its parts.
+We Fukc is a protest platformer game. It has a "Read and Write" approach rather than a "Read Only". What it means is players not only playing the game, they are adding and changing its content.&#x20;
 
-\
-You need to burn to create a character. You'll burn different amounts of tokens for each part that you change in a character. It can be a default character or a listed character. For instance, if you like a character from the list but don't like its SFX, you can inherit it and change its SFX and burn some tokens to mint this character. The amount of token that needs to burn will be correlated with the amount of data that needs to be stored.
+There are 20 levels in We Fukc and each level has its own level boss. In a normal game, you would fight against the level boss, right? But it is not the case here. **WE FUKC** the level boss. And what is better than the fukcing the level boss? It is making anything or anyone the level boss! So, **we fukc whoever or whatever we want to fukc!**
 
-\
-Every week will be a different seance. People who can catch and fuck, will get their rewards after each seance.
+It is worth noting that everyone fukcs the exact same boss on a level. Every week is a different seance in the game. And for each seance players create their own custom boss and select it as a candidate for the next seance's levels. Then again players select the level boss among these candidates for each level. Once players select a boss for a level, every player fukcs that boss on that level in the following seance! So, better not the piss off the We Fukc community, you can be next in the line to get FUKCED!
 
-\
+If you want to learn more about creating, selecting, and electing a level boss, you can check the "[Minting and Electing Boss](tokenomics/minting-and-electing-boss.md)" page.&#x20;
 
+Let's talk about our other differences from most of the P2E games in the ecosystem
 
-##
+| Subject                     | We Fukc                                                                                                                   | Others                                                                                                                         |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Sales**                   | No token sale at all, No NFT sale, No VC investments, No entry fee. It's all fukcing free!                                | Almost all of them hold a couple of token sales, NFT sales. VCs hold large amount of their token and you pay to play. Classic. |
+| C**ommunity Allocation**    | **+90%** of total supply allocated for players!                                                                           | Generally around **40% to 60%** allocation for players                                                                         |
+| **Team Allocation**         | Just **4%** for the team                                                                                                  | Generally around **15% to 30%** alocation for the team                                                                         |
+| **Income Mechanism**        | Dynamic income. Fewer players earn more, more players earn less. Just like Bitcoin or other blockchains' income mechanism | Fixed income leads to a collapse after a certain point.                                                                        |
+| **Reward Rate Mechanism**   | Prevents bots from consuming all the treasury and distributes it more fairly                                              | Most of them don't have such a protective mechanism. Bots earn the most of the treasury                                        |
+| **Read and Write Approach** | Players add and change the content of the game collectively                                                               | Players only play the same game                                                                                                |
+
+You can keep exploring the game and please feel free to join our community! These are our discord channel and Twitter account!

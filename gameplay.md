@@ -1,15 +1,13 @@
 # Gameplay
 
+There are 20 levels in We Fukc. Every 5 levels have a different theme and enemies to fight against. After completing a level, you can finally fukc the level boss. Please enjoy it.
 
+&#x20;Every level has different paths to complete the level. These paths can be longer or shorter than each other and have a different set of difficulties in terms of the number of enemies, the type of enemies, and the number of traps.
 
-**Gameplay:** You fight and kill creatures to fukc the boss of the level. Once you fukc the boss, you unlock the next level. You can continue or play any other unlocked levels as you wish.
+There will be different heroes that players can play with. Each hero will have different characteristics and skills that are suitable for different situations. You can select any of them and kick some ass.
 
-* Add different paths to complete the level and each path should have different difficulties to get through. Reset the difficulty of the paths randomly every day. Therefore people can have more fun while they try to find the easiest path to complete.
-* Maps will be fixed but creatures and snares will differ by the difficulty of the level. Upper levels will be longer to complete.
-* In summary, this system will:
-  * encourage people to play a decent amount of time, not all day.
-  * encourage people to play higher levels
-  * demotivate potential bots
-  * distribute the reward more equally
+If you want to create your own custom boss for players to fukc or participate in the election of the bosses, you can check the "[Minting and Electing Boss](tokenomics/minting-and-electing-boss.md)" page. We highly recommend you check the "[Roles](roles.md)" page to see all the entities in the game.
 
-Every week is a seance !!!
+{% hint style="warning" %}
+Note that not all features of the game would not be available at the time you are playing the game. But these are the core features and will be implemented in the game as soon as possible!
+{% endhint %}

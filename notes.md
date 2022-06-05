@@ -21,6 +21,7 @@
 
 * Profit Index: Every level selection will have a profit index to warn or encourage people about the profit/loss they can get. If people lock too many the index should be red and low!
   * Additionally, we should add a warning to the elections that says "Learn the election mechanisms and fund a reasonable amount to protect yourself against the high risks!"
+* We will keep players' earnings centrally held but every player can get their funds anytime. Even if players don't get their funds, we will send their funds to their wallets automatically if their funds are worth more than 100 dollars.&#x20;
 * Every 5 levels should have a different environment to play like different seasons. Like first 5 levels are green, bright, and a happy environment with easy enemies. But the last 5 levels (16-20) are the hardest and darkest environment. Let's call these different environments chapters.
   * Chapter 1: Green, happy, open space. Human enemies. Easy traps, less dangerous.
   * Chapter 2: Castle, Human enemies with enhanced armament. Tricky traps, give more damage.

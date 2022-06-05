@@ -13,5 +13,5 @@
 * [Boss Rewards](tokenomics/boss-rewards.md)
 * [Backer Rewards](tokenomics/backer-rewards.md)
 * [Burn Mechanisms and Inflation](tokenomics/burn-mechanisms-and-inflation.md)
-* [Reward Rate Mechanism](tokenomics/reward-rate-mechanism.md)
+* [Reward Rate Mechanism](tokenomics/earnings-by-fukcing-bosses.md)
 * [Tier-Based Share System (TSS)](tokenomics/tier-based-share-system-tss.md)

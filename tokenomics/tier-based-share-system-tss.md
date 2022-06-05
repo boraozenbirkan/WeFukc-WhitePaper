@@ -1,9 +1,9 @@
 # Tier-Based Share System (TSS)
 
-Tier-based share system motivates players to invite their friends and help the community to grow. After each seance, 10% of the earnings of players will go to their up-tier account. Players will pass 50% of what they earn from their down-tier to their up-tier if it is greater than 1 FUKC. If it is equal to or less than 1 FUKC, 100% of income from the down-tier will go to the player's account balance.&#x20;
+Tier-based share system motivates players to invite their friends and help the community to grow. After each seance, 10% of the earnings of players that comes from boss fukcs will go to their up-tier account. Players will pass 50% of what they earn from their down-tier to their up-tier if it is greater than 1 FUKC. If it is equal to or less than 1 FUKC, 100% of income from the down-tier will go to the player's account balance.&#x20;
 
 {% hint style="info" %}
-Backer earnings are excluded from TSS.
+Backer, selector, and creator earnings are excluded from TSS.
 {% endhint %}
 
 For instance, if you have earned 100 FUKC in a seance, you'll receive 90 FUKC and pass 10 FUKC to your up-tier. Your up-tier will receive 10 FUKC but pass 5 FUKC to its up-tier and 5 FUKC to its account balance.&#x20;

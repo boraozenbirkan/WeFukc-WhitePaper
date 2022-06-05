@@ -1,7 +1,0 @@
-# Earnings by Fukcing Bosses
-
-Heroes who manage to fukc the bosses will share %50 of the Boss Rewards. We want to distribute this treasury as fair as possible.
-
-* Players will get lower shares as they continue to win the levels. This means their reward will decrease per win. Therefore, we will encourage people to play for a decent amount of time. Not all day. With this feature, we will demotivate potential bot attacks. Because their earnings decreases after each fukc, this will encourage people to play at the highest level they can fukc.
-* Rewards will decrease 2% after each win regardless of the level. For instance, normally you get 100 points each time when you complete a level. Like, if you complete level 1 5 times, you get 500 level-1 points: 500 L1P. But with this system you will get 100 points for the first time, then 98, 96, and so on. And it is a level agnostic system. This means your earnings will decrease regardless of the level you complete. If you complete level 1 for the first time, you get 100 Level-1 points, then if you continue to level 2 and complete it, you'll get 98 level 2 points instead of 100 level 2 points. So, it is better for you to play at the highest level you can fukc. Because higher levels will have higher rewards and you wouldn't waste your rewards in the lower levels.
-* After each fukc: Reward = Reward Rate \* 100 Level X Points then Reward Rate = Reward Rate - 0.02; | Reward resests and starts everyday as default value. Default value is 1.

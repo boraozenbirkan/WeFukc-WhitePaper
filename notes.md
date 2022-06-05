@@ -16,6 +16,12 @@
   * You can make money without playing it!
   * Strong tokenomics
 * **Taking back your funds from a selection:** It can be cool but it would give a lot of harm to people and demotivate them to participate in the selection. For instance, a whale can create 2 characters and stake 1000 tokens to one of them and 100 to the other. People stake their funds in the biggest character to guarantee to be on the winning side. Then whale can withdraw its funds from the biggest character right before the ending of the selections.  Then the whale's little character wins the selection and the whale gets all the money for him with a little fund. Making 10x-20x return in just 1 selection. So, we can't implement withdraw function to the selections. Whales still can manipulate the selections by funding multiple characters and making a final move at the last second but in this case whales' earnings would be nothing if we compare it to the scenario when there is a withdraw function. Because they would lose all the tokens they fund on their fake characters. Withdraw function reduces the competitiveness of the low-budget players and ruins the whole game.
+* Our differences:
+  * Dynamic income: Other games give fixed earnings which leads to a collapse of tokenomics. We have a dynamic income share that makes token distribution more fairly. Early players earn more.
+  * Reward Rate Mechanism: We protect our players from bots and equalize the reward distribution by decreasing rewards as players earn more.
+  * No token sale, No NFT sale, No VC investments.&#x20;
+  * Over 90% of the total supply is allocated for players and just a tiny bit of the supply is allocated for the team.
+  * Players not just playing the game, they are collectively changing the content of the game. Not Read only, Read and Write access.
 
 ### Gameplay Notes
 

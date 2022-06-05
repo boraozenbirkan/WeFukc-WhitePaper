@@ -8,7 +8,7 @@ Unfortunately, we can calculate the burn rate accurately because the most signif
 
 #### Minting Mechanism
 
-The only fixed burning mechanism is the minting mechanism and people will burn $100 worth of FUKC to mint a boss. How many bosses will be minted in what time period is totally up to community.
+The only fixed burning mechanism is the minting mechanism and people will burn $100 worth of FUKC to mint a boss. How many bosses will be minted in what time period is totally up to the community.
 
 #### Selection Mechanism
 
@@ -32,13 +32,8 @@ FUKC token inflation is crazy high in the first year of the game. But more than 
 
 Of course, when we consider the burning mechanisms mentioned above, the inflation rate will decrease dramatically. If we consider a hypothetical situation where **80%** **of circulation** selects the exact same boss there would be **no competition burns**. In that perfect situation, **66%** of the newly minted tokens would **burn every week**. This would decrease the inflation **from 6,900% to 2,250%**. This is a great decrease but there is more. In this perfect situation, all backers would earn a **15,500% APR** which is crazy. And it is most likely to see that not 80% of the circulation would attend every election every week, which increase the **APR to more than 20,000%**.&#x20;
 
+![Circulating Supply Over Years](<../.gitbook/assets/image (1).png>)
+
 Even with the perfect situation where the **least** burning rates happen, the first year's inflation decreases from 6,900% to 2,250%. But a high earning rate like 15,500% APR will attract more and more players into the game and **competition** will cause a lot of burning as you read above in the [selection and election mechanisms](burn-mechanisms-and-inflation.md#selection-mechanism). Therefore we estimate that the first year's inflation will be **lower than 1,000%** and the following years will be **lower than 35%**.
 
-\
-**Inflation for 5 years: (Make graph)**
-
-* 0.4 -> 28 | 6900% (< 1,000% estimated)
-* 28 -> 52 | 85% (< 35% estimated)
-* 52 -> 68 | 30% (< 12% estimated)
-* 68 -> 84 | 24% (< 7% estimated)
-* 84 -> 100 | 19% (< 4% estimated)
+![Inflation Rates](<../.gitbook/assets/image (3).png>)

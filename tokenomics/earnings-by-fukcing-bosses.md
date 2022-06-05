@@ -10,7 +10,7 @@ But there is a **Reward Rate Mechanism** that affects your earnings that comes f
 RewardRate = RewardRate - 0.02 | After each fukc
 {% endhint %}
 
-This system encourages the players to play at the highest level they can play and discourages the potential bots to exploit treasury and leave actual players poor. Additionally, you won't feel like lacking behind other players when you can't play all day. Everyone will have a limit to play.
+This system encourages the players to play at the highest level they can play and discourages the potential bots to exploit treasury and leave actual players poor. Additionally, you won't feel like lacking behind other players when you can't play all day. A player can play as long as he/she wants but only can earn for his/her first 50 fukcs.&#x20;
 
 {% hint style="info" %}
 RewardX = RewardRate \* LevelXPoints | Where X is the level
@@ -19,6 +19,8 @@ RewardX = RewardRate \* LevelXPoints | Where X is the level
 Every level has a different Reward pool named RewardX, where X is the level. For instance, if you have 5 **Reward1** points and the total point in the Reward1 pool is 100, then your share is 5 out of 100, which is 5%. You will get 5% of the treasury of the level 1 boss.&#x20;
 
 When you fukc level 1 boss for the first time, you would earn 1 Reward1 point. If you fukc level 1 boss a second time, you would earn 0.98 Reward1 point because your Reward Rate decreased to 0.98. Your total Reward1 point would be 1.98 after 2 fukc. If you continue to level 2 boss for your third fukc, you would earn 0.96 Reward2 points. If you continue to upper levels **without repeating any level**, you would earn 0.62 Reward20 points. Even though your reward rate is decreasing, it doesn't mean you would earn less. Because everyone's reward rate is decreasing. Therefore, you would share the same amount.&#x20;
+
+![Reward Rate](<../.gitbook/assets/image (5).png>)
 
 {% hint style="info" %}
 Reward Rate resets to 1 every day at 12 AM (GMT). But levels you unlocked will remain.

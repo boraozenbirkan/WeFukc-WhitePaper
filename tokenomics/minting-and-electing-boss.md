@@ -24,7 +24,9 @@ Every boss has a couple of properties to set. When you want to mint a new boss, 
 The cost of minting a boss will be fixed to $100 worth of FUKC.
 {% endhint %}
 
-#### Properties of a Boss
+<details>
+
+<summary>Properties of a Boss</summary>
 
 **Name:** The name of the boss will be displayed on the fukc scene.
 
@@ -49,6 +51,8 @@ The cost of minting a boss will be fixed to $100 worth of FUKC.
 **Fukcing Sound:** The sound plays in the background while players fukc the bosses.
 
 **Other small properties:** Toggle name tag, toggle cover emoji, toggle head image, toggle gif.
+
+</details>
 
 New properties will be added in future updates. Creators will have more options to use their creativity. You can change some properties of the boss to adjust after you mint it. Changeable properties are small properties that are listed above, set the location, and set the zoom level. You can't change fundamental things that set a boss's identity.
 

@@ -10,7 +10,7 @@ Gang bangs are PvP fights that will occur in 3v3 and 5v5 modes. All team players
 
 There will also be tournaments among gangs. Tournaments and gang bangs will have different prize pools. If you want to be alone and not participate in any of these, watch your ass in elections.&#x20;
 
-For those who wonder that "who shall we fukc if there is no boss?". Yes, you probably guessed correctly. You opponents! Members of the gang will fukc the members of the loser gang! It will be so hard to watch. It ain't the level boss, it's you get fukced up!
+For those who wonder that "who shall we fukc if there is no boss?". Yes, you probably guessed right! You opponents! Members of the gang will fukc the members of the loser gang! It will be so hard to watch. It ain't the level boss, it's you who gets fukced up!
 
 ### Customize Gameplay
 

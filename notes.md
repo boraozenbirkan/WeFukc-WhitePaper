@@ -14,6 +14,8 @@
   * **Dumping:** We can it 1 dollar but then the market cap would be 400k and it will be all in the hands of airdrop hunters. They can dump it and if we can't hold it, it goes 0. **Airdrop hunters should be in a mindset not to sell but play and have fun with it.**&#x20;
   * **Liquidity Problem:** We will have 400k FUKC for the liquidity pool. We have to have a number of dollars to support it. If the price would be 1 dollar, then we have to provide 400k dollars with 400k FUKC. This is why 1 cent is a good price. We only have to provide 4k dollars for 400k FUKC.
   * **Pumping:** It can skyrocket from 1 cent but it can't from 1 dollar. If we reach a 4m market cap from 1 dollar, it would make it 10 dollars, which is 10x. But if we reach the same market cap from 1 cent, it would make it again 10 dollars but this time with 1000x instead of 10x. This price action would attract people to invest even though they don't play.
+* Legal Problems: If the game hits a large number of players or even some people start to sue me because of this, it would be a huge problem for me. Therefore I should act like a big tech platform.
+  * Everyone can upload manipulated sexual content about anyone on the internet. It can be on Twitter, Facebook, etc. But if the victim requests from the platform to remove the content, platforms remove it immediately. We will do the same. And we will avoid Gif or video content to be less annoying. Just name, a picture, and our default stickman. People will be able to customize the stickman in our terms to make it more related to the boss. Other features of the boss (such as background image) can be added at first and tested. If it brings too much trouble, we can remove it as well.
 
 ### Gameplay Notes
 
@@ -36,6 +38,8 @@
 * There will be lists like "Most Fukced", "Best Fukcer" and some medals like "The Best Fukcer of Seance #35" or "Serial Fukcer"
 * Add hidden places as a bonus. Those hidden places should be randomly selected. But they would be on the most difficult paths more often.
   * There will be different types of heroes that are suitable for different environments. We can hide gems in places where players can't reach the most suitable hero. For instance, there are two different heroes. One of them is so strong but heavy, the other one light but fast. And you can complete a level with a strong hero. We can hide a gem in that level in a place where players can only reach with that light and fast hero. Maybe it jumps higher? The thing is players who discover this truth and play with an unsuitable hero to find the gem should be able to find it.
+* New Weapons and enemies.
+* Rage for the bare fight: Every given hit give 1 point, and every taken hit gives 2 points. Just bare fights included
 
 ### **Mid-Term**
 
@@ -57,5 +61,6 @@
   * PvP Maps: Players start from different parts of the map. They kill each other and the last one fukcs the boss. We can have a new separate boss for this type of gameplay. Maps can include bots or not.
   * In the future, we can add fukc battles. 1vs1 or 5vs5 team battles. Players choose a character and upgrade it. Just like brawl stars, but if you lose your strength (health), you give up and get fucked! And people get your money!
     * Again, after fukc battles, we can make tournaments.
+  * Rocket Leauge style communication tool but with sound. Gangs have custom sounds and texts.
 * Procedural level generation: The system generates a procedural map and random difficulty with its different paths. Maps and their difficulties would change after the player completes the level. All players will have their own unique map. No daily reset. It resets after every win. Therefore, a new continues journey after each win.
 * Another future might be betting. Betting can start at an early age. First, people can bet which character will get selected for the next seance, after the fukc battles, people can start betting on tournaments.

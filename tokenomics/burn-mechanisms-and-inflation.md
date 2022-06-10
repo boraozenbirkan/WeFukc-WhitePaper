@@ -26,6 +26,12 @@ The second burning mechanism in Elections is that some portion of the funds of t
 
 The first burning mechanism has no power if everyone agrees on the same boss and there is no competition. But the second burning mechanism of the elections is a fixed mechanism that would burn around 60% of the newly minted tokens.
 
+#### Armament
+
+Players will mint weapons and bullets to reach and complete upper levels. They will burn FUKC tokens they earned from lower levels to mint these armaments. If they won't spend their earnings on armaments, they won't be able to play on upper levels and share a small treasury with a large number of people.&#x20;
+
+The higher they play, the higher they earn and the higher they burn. Therefore, some portion of the boss treasury (50% of the [Boss Rewards](boss-rewards.md)) will burn as well.
+
 ## Inflation
 
 FUKC token inflation is crazy high in the first year of the game. But more than **82%** of the newly minted tokens **will go to the community** through the game (58% backers, 14% airdrop, +5% events, +5% marketing drops). This will lead us to more growth and adoption which will make inflation less effective.

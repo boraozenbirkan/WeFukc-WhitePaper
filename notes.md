@@ -14,8 +14,9 @@
   * **Dumping:** We can it 1 dollar but then the market cap would be 400k and it will be all in the hands of airdrop hunters. They can dump it and if we can't hold it, it goes 0. **Airdrop hunters should be in a mindset not to sell but play and have fun with it.**&#x20;
   * **Liquidity Problem:** We will have 400k FUKC for the liquidity pool. We have to have a number of dollars to support it. If the price would be 1 dollar, then we have to provide 400k dollars with 400k FUKC. This is why 1 cent is a good price. We only have to provide 4k dollars for 400k FUKC.
   * **Pumping:** It can skyrocket from 1 cent but it can't from 1 dollar. If we reach a 4m market cap from 1 dollar, it would make it 10 dollars, which is 10x. But if we reach the same market cap from 1 cent, it would make it again 10 dollars but this time with 1000x instead of 10x. This price action would attract people to invest even though they don't play.
-* Legal Problems: If the game hits a large number of players or even some people start to sue me because of this, it would be a huge problem for me. Therefore I should act like a big tech platform.
+* <mark style="color:red;">**Legal Problems**</mark>: If the game hits a large number of players or even some people start to sue me because of this, it would be a huge problem for me. Therefore I should act like a big tech platform.
   * Everyone can upload manipulated sexual content about anyone on the internet. It can be on Twitter, Facebook, etc. But if the victim requests from the platform to remove the content, platforms remove it immediately. We will do the same. And we will avoid Gif or video content to be less annoying. Just name, a picture, and our default stickman. People will be able to customize the stickman in our terms to make it more related to the boss. Other features of the boss (such as background image) can be added at first and tested. If it brings too much trouble, we can remove it as well.
+  * We should add a warning and "I understand and accept" tick in the boss creation section. We must say: "Please do not use any real identity as a boss. It would be a violation of human rights and subject to removal. Please use only fictional entities as a boss!"
 
 ### Gameplay Notes
 
@@ -30,6 +31,12 @@
   * Elements of different chapters: **3 types of enemy, 1 mini-boss, traps, and mapping.**
 * We should provide a preview of the sex scene on the minting page. People should be able to see what they are minting. It is $100 dollar!
 * The whole system resets every seance, the Reward Rate resets every day, and the Path Difficulties resets every hour.
+* We should add a **warning** and "I understand and accept" tick in the boss creation section like Binance does in important things. We must say: "Please do not use any real identity as a boss. It would be a violation of human rights and subject to removal. Please use only fictional entities as a boss!"
+* Fundamental armamanet:&#x20;
+  * Police baton, baseball bat, club, knife, sword, and Axe for handed weapons.
+  * Pistol, shotgun, rifle, and grenade for ranged weapons.
+  * Helmet and vest for defense.
+* Armaments: People will burn FUKC tokens to mint these weapons and their bullets. Bullets and grenades will have a burn method that only can be used by the project owner. We will burn people's bullets after a fight. If a player starts the game with 100 bullets and only fires 20 of them, we will burn 20 bullets of that specific weapon after the fight.
 
 ## **Future Implementations:**
 

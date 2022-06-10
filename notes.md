@@ -37,6 +37,7 @@
   * Pistol, shotgun, rifle, and grenade for ranged weapons.
   * Helmet and vest for defense.
 * Armaments: People will burn FUKC tokens to mint these weapons and their bullets. Bullets and grenades will have a burn method that only can be used by the project owner. We will burn people's bullets after a fight. If a player starts the game with 100 bullets and only fires 20 of them, we will burn 20 bullets of that specific weapon after the fight.
+* Higher levels will be longer and harder to pass. Therefore, people will need more health to complete. We can not give them different max health at different levels or increase the defense point of the shields relatively. It would be awful. A better solution is making enemies drop health when they die. Stronger enemies drop the on the same chance but give more health due to the difficulty of the level. Health drop chance would be a global variable to set and all enemies would fetch it at the beginning of the level.
 
 ## **Future Implementations:**
 

@@ -6,17 +6,53 @@
 
 ## **Notes for this project:**
 
-* Motto: Let's Fukc! | PoF system: Proof-of-Fukc
-* Our logo: Black Heart
+### Prior Notes
+
+* Some stuff
+  * Motto: Let's Fukc! || Fukc the System
+  * PoF system: Proof-of-Fukc
+  * Our logo: Black Heart
+* <mark style="color:red;">**Legal Problems**</mark>: If the game hits a large number of players or even some people start to sue me because of this, it would be a huge problem for me. Therefore I should act like a big tech platform.
+  * Everyone can upload manipulated sexual content about anyone on the internet. It can be on Twitter, Facebook, etc. But if the victim requests from the platform to remove the content, platforms remove it immediately. We will do the same. And we will avoid Gif or video content to be less annoying. Just name, a picture, and our default stickman. People will be able to customize the stickman in our terms to make it more related to the boss. Other features of the boss (such as background image) can be added at first and tested. If it brings too much trouble, we can remove it as well.
+  * We should add a warning and "I understand and accept" tick in the boss creation section. We must say: "Please do not use any real identity as a boss. It would be a violation of human rights and subject to removal. Please use only fictional entities as a boss!"
+  * <mark style="color:red;">**Mention this in many places:**</mark> "We don't have any problem with names, we have a problem with the current system. Liar politicians, big money laundries, corruption, inequality, etc.
+* Short Movie
+  * It should mention bad things in the past and present. The main problems of humans. Like corruption, war, politics, etc.&#x20;
+    * "One stickman watching horrible news, another one looking at trading charts, etc."
+    * Show some people in different colors (enemy colors) who are happy with their current system. They are buying useless stuff, dying for celebrities, fighting for their politics, etc. A classic, perfect type for the current system
+* Potential Teammates
+  * Drawings and Animation
+    * Jhanzou
+      * 1m subs on [Youtube](https://www.youtube.com/watch?v=d\_qGO4GrbQM), 1k followers on [Twitter](https://twitter.com/Jhanzori).
+      * Great art and animations. Familiar with NFTs and OpenSea.
+    * Hyun's Dojo Community
+      * 2.3m subs on [YT](https://www.youtube.com/c/hyunsdojo/featured), 12k on [TW](https://twitter.com/hyunsdojo).
+      * Awesome art and animations.
+    * Fabiano Cruz
+      * 1.25m subs on [YT](https://www.youtube.com/c/FabianoCruzAnimations/featured), no TW, but tiktok etc.
+      * Good artist and animator
+    * Piemation
+      * 4m subs on [YT](https://www.youtube.com/c/PieMationsOfficial), 140k on [TW](https://twitter.com/Piemations).
+      * Awesome art and animation.
+  * Unity Guys?
+  * Blockchain Guys?
+
+### Others
+
 * We will store the character data in both IPFS and our servers to have an efficient system. When people mint a character, they will have its NFT with metadata that is stored in IPFS but when they play the game we will send the data directly from our server to provide better performance.
 * **Taking back your funds from a selection:** It can be cool but it would give a lot of harm to people and demotivate them to participate in the selection. For instance, a whale can create 2 characters and stake 1000 tokens to one of them and 100 to the other. People stake their funds in the biggest character to guarantee to be on the winning side. Then whale can withdraw its funds from the biggest character right before the ending of the selections.  Then the whale's little character wins the selection and the whale gets all the money for him with a little fund. Making 10x-20x return in just 1 selection. So, we can't implement withdraw function to the selections. Whales still can manipulate the selections by funding multiple characters and making a final move at the last second but in this case whales' earnings would be nothing if we compare it to the scenario when there is a withdraw function. Because they would lose all the tokens they fund on their fake characters. Withdraw function reduces the competitiveness of the low-budget players and ruins the whole game.
 * The market price at TGE: 1 cent, therefore 4k market cap
   * **Dumping:** We can it 1 dollar but then the market cap would be 400k and it will be all in the hands of airdrop hunters. They can dump it and if we can't hold it, it goes 0. **Airdrop hunters should be in a mindset not to sell but play and have fun with it.**&#x20;
   * **Liquidity Problem:** We will have 400k FUKC for the liquidity pool. We have to have a number of dollars to support it. If the price would be 1 dollar, then we have to provide 400k dollars with 400k FUKC. This is why 1 cent is a good price. We only have to provide 4k dollars for 400k FUKC.
   * **Pumping:** It can skyrocket from 1 cent but it can't from 1 dollar. If we reach a 4m market cap from 1 dollar, it would make it 10 dollars, which is 10x. But if we reach the same market cap from 1 cent, it would make it again 10 dollars but this time with 1000x instead of 10x. This price action would attract people to invest even though they don't play.
-* <mark style="color:red;">**Legal Problems**</mark>: If the game hits a large number of players or even some people start to sue me because of this, it would be a huge problem for me. Therefore I should act like a big tech platform.
-  * Everyone can upload manipulated sexual content about anyone on the internet. It can be on Twitter, Facebook, etc. But if the victim requests from the platform to remove the content, platforms remove it immediately. We will do the same. And we will avoid Gif or video content to be less annoying. Just name, a picture, and our default stickman. People will be able to customize the stickman in our terms to make it more related to the boss. Other features of the boss (such as background image) can be added at first and tested. If it brings too much trouble, we can remove it as well.
-  * We should add a warning and "I understand and accept" tick in the boss creation section. We must say: "Please do not use any real identity as a boss. It would be a violation of human rights and subject to removal. Please use only fictional entities as a boss!"
+* **Gitcoin:** If we give some percentage of the token allocations (maybe from game development) to indie game developers as a grant, like Gitcoin. We could be seen as a public good that wants to power other indie developers in the ecosystem. We should definitely do that!
+  * And create a POAP for people to use for Gitcoin. Create an event for it as well.
+* **Smart Contract:**&#x20;
+  * **Burn Address:** The default and cheapest burn address for all projects is 0x000..00 but the name of this address is Null. So, when we sent tokens or NFTs to this address and burn, it looks to send them to a null address which is okay. BUT if we create our own burn address and name it as Fukcing Hell, it would be awesome. People will see it in our videos, in blockchain explorers, in OpenSea, and maybe even in analysis. It is marketing more and we should do that.&#x20;
+  * **Player Account Properties:** Uptier-account, Downtier-balance, fucking-balance, account-balance
+* **Community:**
+  * We should create gifs, animations, and memes for the community to use.
+* **SFX and Sound Ideas:** Meme sounds. Make it a meme game, not normal.
 
 ### Gameplay Notes
 
@@ -38,6 +74,10 @@
   * Helmet and vest for defense.
 * Armaments: People will burn FUKC tokens to mint these weapons and their bullets. Bullets and grenades will have a burn method that only can be used by the project owner. We will burn people's bullets after a fight. If a player starts the game with 100 bullets and only fires 20 of them, we will burn 20 bullets of that specific weapon after the fight.
 * Higher levels will be longer and harder to pass. Therefore, people will need more health to complete. We can not give them different max health at different levels or increase the defense point of the shields relatively. It would be awful. A better solution is making enemies drop health when they die. Stronger enemies drop the on the same chance but give more health due to the difficulty of the level. Health drop chance would be a global variable to set and all enemies would fetch it at the beginning of the level.
+* Potential Bosses:&#x20;
+  * Conceptual: Corruption, politicians, big money laundries, corruption, inequality, war.
+  * Harmful stuff for crypto: Do Kwon, Luna, Celcius, AWS Nodes, Bear Market
+* **End Scene:** When we start to fukc boss, there should be an option to zoom back smoothly. When the camera makes a zoom-out, players should start to see other gameplay and fukc scenes playing next to them. Above, under, right, and left. All directions. It would be seen as a container. Like windows of an apartment. The purpose of this feature is that players will remember that even though they are playing in the single-player mode, there are many people and they all fukc the same boss.
 
 ## **Future Implementations:**
 
@@ -46,8 +86,10 @@
 * There will be lists like "Most Fukced", "Best Fukcer" and some medals like "The Best Fukcer of Seance #35" or "Serial Fukcer"
 * Add hidden places as a bonus. Those hidden places should be randomly selected. But they would be on the most difficult paths more often.
   * There will be different types of heroes that are suitable for different environments. We can hide gems in places where players can't reach the most suitable hero. For instance, there are two different heroes. One of them is so strong but heavy, the other one light but fast. And you can complete a level with a strong hero. We can hide a gem in that level in a place where players can only reach with that light and fast hero. Maybe it jumps higher? The thing is players who discover this truth and play with an unsuitable hero to find the gem should be able to find it.
+  * OR, bonus doors. There would be some doors that are not obvious but easy to find. But they can contain a bonus or a trap! When a player opens a door, sometimes it may find a health, stamina, or helmet/vest. But it may find a "kick", "punch", gunfire, or even an explosion! Risky to open!
 * New Weapons and enemies.
 * Rage for the bare fight: Every given hit give 1 point, and every taken hit gives 2 points. Just bare fights included
+* Dying SFX: Wasted GTA effects.
 
 ### **Mid-Term**
 

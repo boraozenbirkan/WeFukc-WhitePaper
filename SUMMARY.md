@@ -17,3 +17,4 @@
 * [Burn Mechanisms and Inflation](tokenomics/burn-mechanisms-and-inflation.md)
 * [Reward Rate Mechanism](tokenomics/earnings-by-fukcing-bosses.md)
 * [Tier-Based Share System (TSS)](tokenomics/tier-based-share-system-tss.md)
+* [Up-Tier Lottery](tokenomics/up-tier-lottery.md)

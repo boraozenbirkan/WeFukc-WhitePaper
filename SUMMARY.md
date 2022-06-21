@@ -2,8 +2,8 @@
 
 * [We FUKC](README.md)
 * [Gameplay](gameplay.md)
-* [Gangs](gangs.md)
-* [We Fukc DAO](we-fukc-dao.md)
+* [Masters and Clans](masters-and-clans.md)
+* [Fukcing DAO](fukcing-dao.md)
 * [Roles](roles.md)
 * [FAQ](faq.md)
 * [Notes](notes.md)

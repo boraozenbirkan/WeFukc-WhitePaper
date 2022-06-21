@@ -1,6 +1,6 @@
 # Backer Rewards
 
-Backer Rewards are **80% of the total supply.** Tokenomics rewards backers and backers share this reward with heroes, selectors, creators, and even with holders by burning some of it.
+Backer Rewards are **80% of the total supply.** Tokenomics rewards backers and backers share this reward with fighters, selectors, creators, and even with holders by burning some of it.
 
 Backer rewards will be distributed unevenly across all levels. Higher levels will have exponentially higher rewards to reward the best players more. Every level has a different weight on the Backer Rewards pool.&#x20;
 

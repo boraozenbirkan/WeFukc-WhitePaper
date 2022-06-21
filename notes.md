@@ -9,7 +9,7 @@
 ### Prior Notes
 
 * Some stuff
-  * Motto: Let's Fukc! || Fukc the System
+  * Motto: Let's Fukc! || JustForFun
   * PoF system: Proof-of-Fukc
   * Our logo: Black Heart
 * <mark style="color:red;">**Legal Problems**</mark>: If the game hits a large number of players or even some people start to sue me because of this, it would be a huge problem for me. Therefore I should act like a big tech platform.
@@ -36,6 +36,7 @@
       * Awesome art and animation.
   * Unity Guys?
   * Blockchain Guys?
+*
 
 ### Others
 
@@ -53,6 +54,9 @@
 * **Community:**
   * We should create gifs, animations, and memes for the community to use.
 * **SFX and Sound Ideas:** Meme sounds. Make it a meme game, not normal.
+* Items that we use and need to purschase if we make money
+  * None for now&#x20;
+*
 
 ### Gameplay Notes
 
@@ -79,23 +83,34 @@
   * Harmful stuff for crypto: Do Kwon, Luna, Celcius, AWS Nodes, Bear Market
 * **End Scene:** When we start to fukc boss, there should be an option to zoom back smoothly. When the camera makes a zoom-out, players should start to see other gameplay and fukc scenes playing next to them. Above, under, right, and left. All directions. It would be seen as a container. Like windows of an apartment. The purpose of this feature is that players will remember that even though they are playing in the single-player mode, there are many people and they all fukc the same boss.
 
-## **Future Implementations:**
+## **Features:**
+
+### **Initial**
+
+* Add meaningful words in the loading screen just like Roma Total War. For instance: "Did you know that mysterious innovator Satoshi Nakamoto embedded a note in the first block of Bitcoin. He wrote "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks."&#x20;
+* **Rage**:&#x20;
+  * when the rage is started, stop the background music, scream "FUUUUUUUUUUKC" and play metal music until the rage ends!
+  * When it starts to scream, give a shock wave and damage to near enemies. 4 different damage ranges: the closest ones get -100, then -75, -50, and -25. But all of them fall back hard. Player hits kill everyone in one shot.
+* We will **sell fucking masters** in our market with DAI. OR in any marketplace with AVAX.
+* **SFX**: Only the player makes a hurt sound. Not enemies.
 
 ### **Short Term**
 
 * There will be lists like "Most Fukced", "Best Fukcer" and some medals like "The Best Fukcer of Seance #35" or "Serial Fukcer"
 * Add hidden places as a bonus. Those hidden places should be randomly selected. But they would be on the most difficult paths more often.
-  * There will be different types of heroes that are suitable for different environments. We can hide gems in places where players can't reach the most suitable hero. For instance, there are two different heroes. One of them is so strong but heavy, the other one light but fast. And you can complete a level with a strong hero. We can hide a gem in that level in a place where players can only reach with that light and fast hero. Maybe it jumps higher? The thing is players who discover this truth and play with an unsuitable hero to find the gem should be able to find it.
+  * There will be different types of fighters that are suitable for different environments. We can hide gems in places where players can't reach the most suitable fighter. For instance, there are two different fighters. One of them is so strong but heavy, the other one light but fast. And you can complete a level with a strong fighter. We can hide a gem in that level in a place where players can only reach with that light and fast fighter. Maybe it jumps higher? The thing is players who discover this truth and play with an unsuitable fighter to find the gem should be able to find it.
   * OR, bonus doors. There would be some doors that are not obvious but easy to find. But they can contain a bonus or a trap! When a player opens a door, sometimes it may find a health, stamina, or helmet/vest. But it may find a "kick", "punch", gunfire, or even an explosion! Risky to open!
 * New Weapons and enemies.
 * Rage for the bare fight: Every given hit give 1 point, and every taken hit gives 2 points. Just bare fights included
 * Dying SFX: Wasted GTA effects.
+* Additional Languages
+* Bosses will have medals like "the most fukced boss in seance #35"
 
 ### **Mid-Term**
 
 * Having and upgrading armament like armor, sword, etc.
 * Anti-bot protections.
-* There will be some player heroes defined by us like Gorilla, humans, etc. We will add the feature of creating our own hero with all animations later. From profile photos to all these personalizations will require FUKC to burn.
+* There will be some player fighters defined by us like Gorilla, humans, etc. We will add the feature of creating our own fighter with all animations later. From profile photos to all these personalizations will require FUKC to burn.
 
 ### **Long Term**
 
@@ -103,14 +118,14 @@
   * Future Implementations:
     * Position-based body parts: People will be able to upload drawings of the body parts based on the position. We will provide the default file and they can change it as they wish. Body type, hair, arms, and legs.
     * The whole fucking animation
-* Uploading custom heroes with custom animations and armament.
-  * People can add their custom heroes and we can check, adjust, and approve their heroes and make them available for everyone to use. Price: $1000 worth of FUKC
-  * Custom Heroes would have a royalty fee that can be set and changed. Players who play with these Heroes will give x% of their earnings to the owner of these heroes. The royalty fee can not be greater than 10%. If the owner changes the royalty fee, the players who chose that hero will be notified and be switched to a royalty-free genesis hero. It is important to protect players.
+* Uploading custom fighters with custom animations and armament.
+  * People can add their custom fighters and we can check, adjust, and approve their fighters and make them available for everyone to use. Price: $1000 worth of FUKC
+  * Custom fighters would have a royalty fee that can be set and changed. Players who play with these fighters will give x% of their earnings to the owner of these fighters. The royalty fee can not be greater than 10%. If the owner changes the royalty fee, the players who chose that fighter will be notified and be switched to a royalty-free genesis fighter. It is important to protect players.
 * Multiplayer
   * 3-5 players start together to the level and the first one who reaches the boss, fukcs. Players can't damage each other and the difficulty of the level's paths will reset for each game.
   * PvP Maps: Players start from different parts of the map. They kill each other and the last one fukcs the boss. We can have a new separate boss for this type of gameplay. Maps can include bots or not.
   * In the future, we can add fukc battles. 1vs1 or 5vs5 team battles. Players choose a character and upgrade it. Just like brawl stars, but if you lose your strength (health), you give up and get fucked! And people get your money!
     * Again, after fukc battles, we can make tournaments.
-  * Rocket Leauge style communication tool but with sound. Gangs have custom sounds and texts.
+  * Rocket Leauge style communication tool but with sound. Clans have custom sounds and texts.
 * Procedural level generation: The system generates a procedural map and random difficulty with its different paths. Maps and their difficulties would change after the player completes the level. All players will have their own unique map. No daily reset. It resets after every win. Therefore, a new continues journey after each win.
 * Another future might be betting. Betting can start at an early age. First, people can bet which character will get selected for the next seance, after the fukc battles, people can start betting on tournaments.

@@ -2,9 +2,9 @@
 
 There are a couple of roles that you can take as you wish. These are the roles that you can take while We Fukc:
 
-**Heroes:** You can play the game, kill the protectors of the boss, and fukc the boss! Heroes who fukc the boss will share **50%** of [Boss Rewards](tokenomics/boss-rewards.md). Being a hero is totally free. Just choose your hero, kick some ass, and fukc the bosses! You can check the "[Reward Rate Mechanism](tokenomics/reward-rate-mechanism-rrm.md)" page to see details about how much you can make.
+**Fighters:** You can play the game, kill the protectors of the boss, and fukc the boss! fighters who fukc the boss will share **50%** of [Boss Rewards](tokenomics/boss-rewards.md). Being a fighter is totally free. Just choose your fighter, kick some ass, and fukc the bosses! You can check the "[Reward Rate Mechanism](tokenomics/reward-rate-mechanism-rrm.md)" page to see details about how much you can make.
 
-**Creators:** You can create and mint a boss for heroes to fukc! You can make anything or anyone a boss. Creators share **2%** of the [Boss Rewards](tokenomics/boss-rewards.md). If you can make a boss that people really love to fukc, you can make high returns over time! A boss can have only one creator.
+**Creators:** You can create and mint a boss for fighters to fukc! You can make anything or anyone a boss. Creators share **2%** of the [Boss Rewards](tokenomics/boss-rewards.md). If you can make a boss that people really love to fukc, you can make high returns over time! A boss can have only one creator.
 
 **Selectors:** You can select a boss as a candidate for backers to elect. You have the chance to be a selector every seance. Selectors share **10%** of the [Boss Rewards.](tokenomics/boss-rewards.md) Each boss can have only one selector for each level.
 

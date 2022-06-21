@@ -22,5 +22,5 @@ Again, 0.03 FUKC might seems low if the game is not released and there is no tok
 {% hint style="info" %}
 There is **no participation or ticket fee** in this lottery. This is completely free to participate. And all players who have down-tiers will **automatically** join the lottery every seance. So, you don't have to do anything to participate. Just check your wallet if you won!
 
-**If you want to increase your chance to win**, you can invite your friends to play the game **as a** **hero**. Since it is completely free to play and earn as a hero, there is nothing at stake to lose. **Don't forget** to share your tier-id with your friends so they can be your down-tier!
+**If you want to increase your chance to win**, you can invite your friends to play the game **as a** **fighter**. Since it is completely free to play and earn as a **fighter**, there is nothing at stake to lose. **Don't forget** to share your tier-id with your friends so they can be your down-tier!
 {% endhint %}

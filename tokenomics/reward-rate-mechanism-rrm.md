@@ -1,8 +1,8 @@
-# Reward Rate Mechanism
+# Reward Rate Mechanism (RRM)
 
-Heroes who manage to fukc the bosses will share %50 of the Boss Rewards. Every boss has a different amount of reward depending on the funding they got from backers.&#x20;
+Fighters who manage to fukc the bosses will share %50 of the Boss Rewards. Every boss has a different amount of reward depending on the funding they got from backers.&#x20;
 
-For instance, a level 5 boss has 10,000 FUKC in its treasury and gets fukc by Heroes 1000 times. If you were one of the heroes and fukced that boss 10 times, your share is 10 out of 1000 which is 1%. Therefore, you would get 100 FUKC from that boss.
+For instance, a level 5 boss has 10,000 FUKC in its treasury and gets fukc by fighters 1000 times. If you were one of the fighters and fukced that boss 10 times, your share is 10 out of 1000 which is 1%. Therefore, you would get 100 FUKC from that boss.
 
 But there is a **Reward Rate Mechanism** that affects your earnings that comes from boss fukc. Your reward rate will decrease by 2% after each fukc regardless of the level of the boss. For instance, after 25 fukc, your reward rate will decrease to 0.5 from 1. If you can't complete the level and can't fukc the boss, then your reward rate will remain the same.&#x20;
 

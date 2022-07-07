@@ -8,6 +8,7 @@
 
 ### Prior Notes
 
+* TOKENOMICS: Change the total supply to 128 million.&#x20;
 * Some stuff
   * Motto: Let's Fukc! || JustForFun
   * PoF system: Proof-of-Fukc

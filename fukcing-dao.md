@@ -10,9 +10,9 @@ Community members can open a discussion about a boss that has been created and l
 
 ### Fukcing DAO Tokens (FDAO)
 
-Fukcing DAO tokens will be minted by contributing elections, and selections. When people burn FUKC tokens in the elections and selections, they will receive their FDAO tokens. Masters will receive as much as backers and selectors received in the previous seance. Therefore Masters will represent 50% of the Fukcing DAO.
+Fukcing DAO tokens will be minted by contributing elections, and selections. When people burn FUKC tokens in the elections and selections, they will receive their FDAO tokens. Lords will receive as much as backers and selectors received in the previous seance. Therefore Lords will represent 50% of the Fukcing DAO.
 
-For instance, when you burn or spend 1,000 FUKC tokens in elections, you'll receive 1,000 FDAO. If all players spent or burned a total of 50,000 FUKC in that seance, 1,000 Master will receive a total of 50,000 FDAO tokens after that seance.
+For instance, when you burn or spend 1,000 FUKC tokens in elections, you'll receive 1,000 FDAO. If all players spent or burned a total of 50,000 FUKC in that seance, 1,000 Lord will receive a total of 50,000 FDAO tokens after that seance.
 
-Unlike other governance tokens, FDAO tokens can not be transferred to anyone, and thus can not be sold. You can not buy Fucking DAO tokens, you only can earn them by burning FUKC tokens or being a Fukcing Master.
+Unlike other governance tokens, FDAO tokens can not be transferred to anyone, and thus can not be sold. You can not buy Fucking DAO tokens, you only can earn them by burning FUKC tokens or being a Fukcing Lord.
 

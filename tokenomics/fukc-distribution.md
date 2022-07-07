@@ -4,6 +4,8 @@ description: Fukcing Token (FUKC)
 
 # FUKC Distribution
 
+**Total Supply:** 128 million FUKC
+
 ## Fukcing Token (FUKC) Distribution
 
 * 80% - Backer Rewards |--- 5 Yrs DLV

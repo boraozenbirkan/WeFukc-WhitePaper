@@ -4,7 +4,7 @@ We Fukc is a protest platformer game. With the Web3 revolution, players truly ow
 
 > Read > Read and Write > Own > Own and Modify
 
-There are 20 levels in We Fukc and each level has its own level boss. In a normal game, you would fight against the level boss, right? But it is not the case here. **WE FUKC** the level boss.&#x20;
+There are 16 levels in We Fukc and each level has its own level boss. In a normal game, you would fight against the level boss, right? But it is not the case here. **WE FUKC** the level boss.&#x20;
 
 It is worth noting that everyone fukcs the exact same boss on a level. **Every week is a different seance in the game.** And for each seance players create their own custom boss and select it as a candidate for the next seance's level. Then again players select the level boss among these candidates for each level. Once players select a boss for a level, all players fukc that boss on that level in the following seance!
 

@@ -8,7 +8,7 @@ description: Fukcing Token (FUKC)
 
 ## Fukcing Token (FUKC) Distribution
 
-* 80% - Gaming Rewards |--- 5 Yrs DLV
+* 80% - Backer Rewards |--- 5 Yrs DLV
 * 4% - Game Development |--- 2 Yrs DLV
 * 4% - Community Tresuary |--- 10% TGE, 2 Yrs DLV
 * 4% - Marketing |--- 10% TGE, 2 Yrs DLV
@@ -19,7 +19,7 @@ description: Fukcing Token (FUKC)
 
 ## Explain a bit more?
 
-* **Gaming Rewards:** To backers who provide funding to bosses and for clan fights.
+* **Backer Reward:** To backers who provide funding to bosses.
 * **Game Development:** The development of the game over the years
 * **Community Treasury:** Liquidity Providers, Staking rewards, event rewards. 10% TGE unlock for Liquidity Providers
 * **Marketing:** Marketing events, partnerships, etc. 10% TGE unlock for the initial marketing campaign

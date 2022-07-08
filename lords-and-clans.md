@@ -1,8 +1,18 @@
 # Lords and Clans
 
+## Clans
+
 Clans will be the most influential entity in the boss elections. Therefore, it is highly important to be a part of a clan and act together to save your ass and kick some ass.
 
 Apart from the organizational benefit of clans, they will have three different privileges. Clans fights, gameplay customization, and direct contact with developers and community managers.
+
+\*\*\*\* Clan benefits:&#x20;
+
+* **Clan Activity Rewards:** We will distribute lord NFTs and x% of our marketing and/or Community tokens to the clans by clan activities. Clan members will be able to participate in clan fights which have a different prize pool and will be rewarding.&#x20;
+* **Tournaments:** We will hold 2 different tournaments: One of them is a normal tournament where the best clans will be rewarded, and the other one is a lottery mechanism. Where clans will have tickets by the point they earn with clan fights. These funds will be little but highly rewarding for a few clans. Like the top 16, and random 16 clans will earn it.
+* **Clan fights:** After clan fights mode is enabled, the gaming rewards will be split with some ratio to provide rewards for clan fights.
+* **Gameplay Customization:** Clans members will have their clan-specific sound effects and items in the game.
+* **Elections:** Being a member of a clan will provide you insight into which boss is most likely to win the elections. Therefore save you from the risk of losing your funds by backing a loser boss.
 
 ### Clan Fights
 
@@ -34,7 +44,7 @@ Lords mint a special Clan Creation NFT and give it (or sell it) to the clan lead
 
 Lords are the creator of all the clans in the game. Lord NFTs have different properties but their rarity of properties doesn't matter at all. All Lords have exact same functionality. Therefore, you can have whichever you like!
 
-Lords will have passive income through their clans. 10% of the clans' treasury will be transferred to their Lords. They will represent 50% of the [Fukcing DAO](fukcing-dao.md). Lords NFTs have no royalty fee!
+Lords will have passive income by taxing clans. 10% of the clans' treasury will be transferred to their Lords. They will represent 50% of the [Fukcing DAO](fukcing-dao.md). Lords NFTs have no royalty fee!
 
 As a lord, you can mint creation NFTs and give or sell it to a clan leader who wants to create a clan.&#x20;
 
@@ -50,6 +60,7 @@ Clans will earn tickets with their activities and fighters will earn tickets wit
 
 On the other hand, clans will have half of their allocation before the launch of the game. And the other half will be distributed after the launch with the same lottery-based mechanism. Each clan and fighter can only earn 1 Lord NFT. Winners will be excluded from the lottery. Activity points of the clans will be announced later!
 
-* 50 for the team
-* 25 for the clans
-* 25 for fighters
+* 412 for the public (80.5% of total Lords)
+* 50 for the team (9.8% of total Lords)
+* 25 for the clans (4.8% of total Lords)
+* 25 for fighters (4.8% of total Lords)

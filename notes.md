@@ -8,7 +8,17 @@
 
 ### Prior Notes
 
-* TOKENOMICS: Change the total supply to 128 million.&#x20;
+* Everything will be a smart contract. Elections, Bosses, Lords, and even fighters.
+  * Boss destructions should leave enough time for everyone to vote. For instance, if someone triggers voting to destroy a boss, there should be a 1 week voting time. After the results, the boss can carry on or die.
+* **Branding:** Print on demand our own products. Flags, T-shirts, hats, etc.&#x20;
+  * There are two major options to do that. [Printful ](https://www.printful.com/)produces the product and ships it internationally, but [Printify ](https://printify.com/)act as a middleman. You choose the product and producer. In that sense, Printful looks like a better option. For both, you can add the buying page to your own website just like you are selling it. People can order it from all around the world.&#x20;
+  * We can add our own products and clan-specific products to our website with Printful. Clans and fighters buy the products. We also order and distribute in our events to create branding.
+* Try to select "Me" boss in the first level every seance and make it a tradition. We should judge ourselves first!
+  * **Default Bosses:** Me, war, inflation, politics.
+  * **Creative Bosses:** Twitter, Social Media, Facebook, Big Tech, VCs, Banks, Governments.
+* **Weekly Reports:** Post weekly reports about the game. How many funds were staked, how many bosses were selected, and elected, and how many funds were used in these elections, or burned in these elections? If there is any rebellion going on or a lord died, the boss died? News from the WeFukc.&#x20;
+  * **Burning Gif:** Create a burning gif where the evil throws tokens into flames and burns them. Use it when you post weekly burn reports.
+  * Types: Number of players signed, and exist, active. Newly created bosses, died bosses, selected and elected bosses. New clans. Events. Burned tokens by actions. Most fukced boss, best fukcer, fastest fighter, the best team, etc.
 * Some stuff
   * Motto: Let's Fukc! || JustForFun
   * PoF system: Proof-of-Fukc
@@ -37,11 +47,12 @@
       * Awesome art and animation.
   * Unity Guys?
   * Blockchain Guys?
-*
 
 ### Others
 
 * We will store the character data in both IPFS and our servers to have an efficient system. When people mint a character, they will have its NFT with metadata that is stored in IPFS but when they play the game we will send the data directly from our server to provide better performance.
+* **Discord - Clan Memberships:** Create clan-specific channel groups for major clans. Keep them under one roof and have a more active and energic server. Create a membership moderator class. This membership moderators will add and remove all clan members in discord. Have a specific channel for this communication. For instance: There is a channel called Clan Memberships: Only Membership Moderators and one executive from each clan can see it. Clans will have to assign membership operations to one of their members. It can be the leader of the clan as well. Only that person will see the Clan Memberships channel and will notify which members added or removed to or from the clan. This channel will have maximum slow-mode enabled (6h). Therefore clans can announce their membership changes at some specific times.
+* **AMA:** Take AMA questions with a Twitter tag from Twitter. Mods will post our answers under the question posts. In this way, we will increase our digital footprint in the space. Use normal #WeFukc, not AMA specific. We'll see the post from the newest to the latest. Post AMA after editing on Youtube.
 * **Taking back your funds from a selection:** It can be cool but it would give a lot of harm to people and demotivate them to participate in the selection. For instance, a whale can create 2 characters and stake 1000 tokens to one of them and 100 to the other. People stake their funds in the biggest character to guarantee to be on the winning side. Then whale can withdraw its funds from the biggest character right before the ending of the selections.  Then the whale's little character wins the selection and the whale gets all the money for him with a little fund. Making 10x-20x return in just 1 selection. So, we can't implement withdraw function to the selections. Whales still can manipulate the selections by funding multiple characters and making a final move at the last second but in this case whales' earnings would be nothing if we compare it to the scenario when there is a withdraw function. Because they would lose all the tokens they fund on their fake characters. Withdraw function reduces the competitiveness of the low-budget players and ruins the whole game.
 * The market price at TGE: 1 cent, therefore 4k market cap
   * **Dumping:** We can it 1 dollar but then the market cap would be 400k and it will be all in the hands of airdrop hunters. They can dump it and if we can't hold it, it goes 0. **Airdrop hunters should be in a mindset not to sell but play and have fun with it.**&#x20;
@@ -50,12 +61,12 @@
 * **Gitcoin:** If we give some percentage of the token allocations (maybe from game development) to indie game developers as a grant, like Gitcoin. We could be seen as a public good that wants to power other indie developers in the ecosystem. We should definitely do that!
   * And create a POAP for people to use for Gitcoin. Create an event for it as well.
 * **Smart Contract:**&#x20;
-  * **Burn Address:** The default and cheapest burn address for all projects is 0x000..00 but the name of this address is Null. So, when we sent tokens or NFTs to this address and burn, it looks to send them to a null address which is okay. BUT if we create our own burn address and name it as Fukcing Hell, it would be awesome. People will see it in our videos, in blockchain explorers, in OpenSea, and maybe even in analysis. It is marketing more and we should do that.&#x20;
+  * **Burn Address:** The default and cheapest burn address for all projects are 0x000..00 but the name of this address is Null. So, when we sent tokens or NFTs to this address and burn, it looks to send them to a null address which is okay. BUT if we create our own burn address and name it Fukcing Hell, it would be awesome. People will see it in our videos, in blockchain explorers, in OpenSea, and maybe even in analysis. It is marketing more and we should do that.&#x20;
   * **Player Account Properties:** Uptier-account, Downtier-balance, fucking-balance, account-balance
 * **Community:**
   * We should create gifs, animations, and memes for the community to use.
 * **SFX and Sound Ideas:** Meme sounds. Make it a meme game, not normal.
-* Items that we use and need to purschase if we make money
+* Items that we use and need to purchase if we make money
   * None for now&#x20;
 *
 
@@ -74,11 +85,11 @@
 * The whole system resets every seance, the Reward Rate resets every day, and the Path Difficulties resets every hour.
 * We should add a **warning** and "I understand and accept" tick in the boss creation section like Binance does in important things. We must say: "Please do not use any real identity as a boss. It would be a violation of human rights and subject to removal. Please use only fictional entities as a boss!"
 * Fundamental armamanet:&#x20;
-  * Police baton, baseball bat, club, knife, sword, and Axe for handed weapons.
+  * Baseball bat, knife, and Axe for handed weapons.
   * Pistol, shotgun, rifle, and grenade for ranged weapons.
   * Helmet and vest for defense.
 * Armaments: People will burn FUKC tokens to mint these weapons and their bullets. Bullets and grenades will have a burn method that only can be used by the project owner. We will burn people's bullets after a fight. If a player starts the game with 100 bullets and only fires 20 of them, we will burn 20 bullets of that specific weapon after the fight.
-* Higher levels will be longer and harder to pass. Therefore, people will need more health to complete. We can not give them different max health at different levels or increase the defense point of the shields relatively. It would be awful. A better solution is making enemies drop health when they die. Stronger enemies drop the on the same chance but give more health due to the difficulty of the level. Health drop chance would be a global variable to set and all enemies would fetch it at the beginning of the level.
+* Higher levels will be longer and harder to pass. Therefore, people will need more health to complete. We can not give them different max health at different levels or increase the defense point of the shields relatively. It would be awful. A better solution is making enemies drop their health when they die. Stronger enemies drop the on the same chance but give more health due to the difficulty of the level. Health drop chance would be a global variable to set and all enemies would fetch it at the beginning of the level.
 * Potential Bosses:&#x20;
   * Conceptual: Corruption, politicians, big money laundries, corruption, inequality, war.
   * Harmful stuff for crypto: Do Kwon, Luna, Celcius, AWS Nodes, Bear Market
@@ -88,12 +99,10 @@
 
 ### **Initial**
 
-* Add meaningful words in the loading screen just like Roma Total War. For instance: "Did you know that mysterious innovator Satoshi Nakamoto embedded a note in the first block of Bitcoin. He wrote "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks."&#x20;
+* Add animation on the building in the background. Like a sex scene, murder scene, party scene, etc. The background would look alive.
 * **Rage**:&#x20;
   * when the rage is started, stop the background music, scream "FUUUUUUUUUUKC" and play metal music until the rage ends!
-  * When it starts to scream, give a shock wave and damage to near enemies. 4 different damage ranges: the closest ones get -100, then -75, -50, and -25. But all of them fall back hard. Player hits kill everyone in one shot.
-* We will **sell fucking masters** in our market with DAI. OR in any marketplace with AVAX.
-* **SFX**: Only the player makes a hurt sound. Not enemies.
+  * When it starts to scream, gives a shock wave and damage to near enemies. 4 different damage ranges: the closest ones get -100, then -75, -50, and -25. But all of them fall back hard. The player hits and kills everyone in one shot.
 
 ### **Short Term**
 

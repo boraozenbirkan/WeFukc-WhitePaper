@@ -21,7 +21,7 @@ Every boss will be minted, selected, and elected to get fukced! Minting is a one
 Every boss has a couple of properties to set. When you want to mint a new boss, you inherit an existing boss as the parent boss. You should change at least one of the properties of your parent boss to mint a new boss.
 
 {% hint style="info" %}
-The cost of minting a boss will be fixed to $100 worth of FUKC.
+The cost of minting a boss will be 1,000 FUKC. We will update the cost of mint to have a sustainable economy. It will always be profitable for appealing bosses!
 {% endhint %}
 
 <details>

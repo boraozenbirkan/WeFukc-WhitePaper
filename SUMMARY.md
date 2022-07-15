@@ -2,7 +2,8 @@
 
 * [We FUKC](README.md)
 * [Gameplay](gameplay.md)
-* [Lords and Clans](lords-and-clans.md)
+* [Lords](lords.md)
+* [Clans](clans.md)
 * [Fukcing DAO](fukcing-dao.md)
 * [Roles](roles.md)
 * [FAQ](faq.md)

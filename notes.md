@@ -8,6 +8,7 @@
 
 ### Prior Notes
 
+* Remove non-fundamental features like gameplay customization from the public display. We may add them in the future. But keep them private and keep the project clean and easy to understand.
 * Everything will be a smart contract. Elections, Bosses, Lords, and even fighters.
   * Boss destructions should leave enough time for everyone to vote. For instance, if someone triggers voting to destroy a boss, there should be a 1 week voting time. After the results, the boss can carry on or die.
 * **Branding:** Print on demand our own products. Flags, T-shirts, hats, etc.&#x20;
@@ -15,7 +16,7 @@
   * We can add our own products and clan-specific products to our website with Printful. Clans and fighters buy the products. We also order and distribute in our events to create branding.
 * Try to select "Me" boss in the first level every seance and make it a tradition. We should judge ourselves first!
   * **Default Bosses:** Me, war, inflation, politics, bear market, Ignorance, Terrorism.
-  * **Creative Bosses:** Twitter, Social Media, Facebook, Big Tech, VCs, Banks, Governments, Ethereum, Bitcoin, Avalanche, Shitcoins, DogeCoin, Shiba Inu, Communism, Fascism, Algo Stable Coins, Star Atlas, and other projects that people got ripped off. DAO hack, Mt Gox, FED, Ponzi Dollar, Lords, Stifler's Mom.
+  * **Creative Bosses:** Twitter, Social Media, Facebook, Big Tech, VCs, Banks, Governments, Ethereum, Bitcoin, Avalanche, Shitcoins, DogeCoin, Shiba Inu, Communism, Fascism, Algo Stable Coins, Star Atlas, and other projects that people got ripped off. DAO hack, Mt Gox, FED, Ponzi Dollar, Lords, Stifler's Mom, SJW.
 * **Weekly Reports:** Post weekly reports about the game. How many funds were staked, how many bosses were selected, and elected, and how many funds were used in these elections, or burned in these elections? If there is any rebellion going on or a lord died, the boss died? News from the WeFukc.&#x20;
   * **Burning Gif:** Create a burning gif where the evil throws tokens into flames and burns them. Use it when you post weekly burn reports.
   * Types: Number of players signed, and exist, active. Newly created bosses, died bosses, selected and elected bosses. New clans. Events. Burned tokens by actions. Most fukced boss, best fukcer, fastest fighter, the best team, etc.
@@ -27,6 +28,7 @@
   * Everyone can upload manipulated sexual content about anyone on the internet. It can be on Twitter, Facebook, etc. But if the victim requests from the platform to remove the content, platforms remove it immediately. We will do the same. And we will avoid Gif or video content to be less annoying. Just name, a picture, and our default stickman. People will be able to customize the stickman in our terms to make it more related to the boss. Other features of the boss (such as background image) can be added at first and tested. If it brings too much trouble, we can remove it as well.
   * We should add a warning and "I understand and accept" tick in the boss creation section. We must say: "Please do not use any real identity as a boss. It would be a violation of human rights and subject to removal. Please use only fictional entities as a boss!"
   * <mark style="color:red;">**Mention this in many places:**</mark> "We don't have any problem with names, we have a problem with the current system. Liar politicians, big money laundries, corruption, inequality, etc.
+  * **Display this friendly and reasonable warning:** "Dear fellow humans! Please do not create a boss with a real name. This is our rightful protest and we will not violate the laws and human rights. Even though you give the evilest person's name to a boss, it would trigger an endless request for other people. For instance, if you create a boss named Adolf Hitler, some people would want to create a boss named Joseph Stalin and some would want to create bosses with other names. There is no good in this type of chain of reaction. Therefore, please avoid giving a real name to bosses you create. Additionally, please create disputes and vote for the removal on the bosses that have a real name. If you are smart enough, you can name your boss with a nickname so that everyone can figure out who is it ;)"
 * Short Movie
   * It should mention bad things in the past and present. The main problems of humans. Like corruption, war, politics, etc.&#x20;
     * "One stickman watching horrible news, another one looking at trading charts, etc."
@@ -70,7 +72,7 @@
 * **SFX and Sound Ideas:** Meme sounds. Make it a meme game, not normal.
 * Items that we use and need to purchase if we make money
   * None for now&#x20;
-*
+* **Open Source:** We can make the boss election and other non-game actions fully open source with its interface. If we can make the game open-source, then no authorities can stop us. But if we can't, we can implement a feature that gives us to accept a certain type of NFT as proof of completing a level. For instance, if the community votes on-chain and accepts a different NFT address as a new level 5 success NFT, then the reward would go that the NFTs holders. By doing that, we can have more censorship resistance. But this is quite a far feature that we even not might need.
 
 ### Gameplay Notes
 

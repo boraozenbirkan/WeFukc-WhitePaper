@@ -10,8 +10,8 @@ There are a couple of roles that you can take as you wish. These are the roles t
 
 **Backers:** Backers choose the boss of the level by funding it. You can fund a boss and make it the boss of the level in the following seance. Backers share **38%** of the [Boss Rewards](tokenomics/boss-rewards.md) and share [Backer Rewards](tokenomics/backer-rewards.md). Backer Rewards are **80%** of the total supply of FUKC tokens. Being a backer is a highly risky but highly rewarding role.
 
-**Clan Leaders and High Command:** There will be clans for people to gather under one name and fight together and earn more! You can be the leader of your clan or have a seat on high command of a clan. Either way, you can have a decent salary thanks to clan treasury! Check the [Lords and Clans](lords-and-clans.md) for further details.
+**Clan Leaders and High Command:** There will be clans for people to gather under one name and fight together and earn more! You can be the leader of your clan or have a seat on high command of a clan. Either way, you can have a decent salary thanks to clan treasury! Check the [Lords and Clans](lords.md) for further details.
 
-**Lords:** The best and most rewarding role in the game is being a fukcing lord! Lords create clans and get 10% tax from their treasury. There will be a maximum of 512 lords. Being a lord can be costly but highly rewarding. Check the [Lords and Clans](lords-and-clans.md) for further details.
+**Lords:** The best and most rewarding role in the game is being a fukcing lord! Lords create clans and get 10% tax from their treasury. There will be a maximum of 512 lords. Being a lord can be costly but highly rewarding. Check the [Lords and Clans](lords.md) for further details.
 
 Check the "[Minting and Electing Boss](tokenomics/minting-and-electing-boss.md)" page for details about being a creator, selector, or backer.

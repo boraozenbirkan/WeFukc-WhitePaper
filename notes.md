@@ -73,6 +73,14 @@
 * Items that we use and need to purchase if we make money
   * None for now&#x20;
 * **Open Source:** We can make the boss election and other non-game actions fully open source with its interface. If we can make the game open-source, then no authorities can stop us. But if we can't, we can implement a feature that gives us to accept a certain type of NFT as proof of completing a level. For instance, if the community votes on-chain and accepts a different NFT address as a new level 5 success NFT, then the reward would go that the NFTs holders. By doing that, we can have more censorship resistance. But this is quite a far feature that we even not might need.
+* **Stickman Colors**
+  * Fighter: Black
+  * Tier 1-3: <mark style="color:green;">Green</mark> (#00B050)
+  * Tier 4-6: <mark style="color:blue;">Blue</mark> (#4472C4)
+  * Tier 7-9: <mark style="color:yellow;">Yellow</mark> (#FFC000)
+  * Tier 10-12: <mark style="color:orange;">Orange</mark> (#ED7D31)
+  * Tier 12-15: <mark style="color:red;">Red</mark> (#C00000)
+  * Boss: <mark style="color:purple;">Purple</mark> (Tyrian purple - #66023C)
 
 ### Gameplay Notes
 

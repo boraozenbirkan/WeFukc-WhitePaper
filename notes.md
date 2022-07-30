@@ -15,7 +15,7 @@
   * There are two major options to do that. [Printful ](https://www.printful.com/)produces the product and ships it internationally, but [Printify ](https://printify.com/)act as a middleman. You choose the product and producer. In that sense, Printful looks like a better option. For both, you can add the buying page to your own website just like you are selling it. People can order it from all around the world.&#x20;
   * We can add our own products and clan-specific products to our website with Printful. Clans and fighters buy the products. We also order and distribute in our events to create branding.
 * Try to select "Me" boss in the first level every seance and make it a tradition. We should judge ourselves first!
-  * **Default Bosses:** Me, war, inflation, politics, bear market, Ignorance, Terrorism.
+  * **Default Bosses:** Me, war, inflation, politics, bear market, Ignorance, Terrorism, fiat money.
   * **Creative Bosses:** Twitter, Social Media, Facebook, Big Tech, VCs, Banks, Governments, Ethereum, Bitcoin, Avalanche, Shitcoins, DogeCoin, Shiba Inu, Communism, Fascism, Algo Stable Coins, Star Atlas, and other projects that people got ripped off. DAO hack, Mt Gox, FED, Ponzi Dollar, Lords, Stifler's Mom, SJW.
 * **Weekly Reports:** Post weekly reports about the game. How many funds were staked, how many bosses were selected, and elected, and how many funds were used in these elections, or burned in these elections? If there is any rebellion going on or a lord died, the boss died? News from the WeFukc.&#x20;
   * **Burning Gif:** Create a burning gif where the evil throws tokens into flames and burns them. Use it when you post weekly burn reports.
@@ -151,3 +151,4 @@
   * Rocket Leauge style communication tool but with sound. Clans have custom sounds and texts.
 * Procedural level generation: The system generates a procedural map and random difficulty with its different paths. Maps and their difficulties would change after the player completes the level. All players will have their own unique map. No daily reset. It resets after every win. Therefore, a new continues journey after each win.
 * Another future might be betting. Betting can start at an early age. First, people can bet which character will get selected for the next seance, after the fukc battles, people can start betting on tournaments.
+* Test: Caricaturized characters rather than stickmen.

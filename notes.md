@@ -33,22 +33,6 @@
   * It should mention bad things in the past and present. The main problems of humans. Like corruption, war, politics, etc.&#x20;
     * "One stickman watching horrible news, another one looking at trading charts, etc."
     * Show some people in different colors (enemy colors) who are happy with their current system. They are buying useless stuff, dying for celebrities, fighting for their politics, etc. A classic, perfect type for the current system
-* Potential Teammates
-  * Drawings and Animation
-    * Jhanzou
-      * 1m subs on [Youtube](https://www.youtube.com/watch?v=d\_qGO4GrbQM), 1k followers on [Twitter](https://twitter.com/Jhanzori).
-      * Great art and animations. Familiar with NFTs and OpenSea.
-    * Hyun's Dojo Community
-      * 2.3m subs on [YT](https://www.youtube.com/c/hyunsdojo/featured), 12k on [TW](https://twitter.com/hyunsdojo).
-      * Awesome art and animations.
-    * Fabiano Cruz
-      * 1.25m subs on [YT](https://www.youtube.com/c/FabianoCruzAnimations/featured), no TW, but tiktok etc.
-      * Good artist and animator
-    * Piemation
-      * 4m subs on [YT](https://www.youtube.com/c/PieMationsOfficial), 140k on [TW](https://twitter.com/Piemations).
-      * Awesome art and animation.
-  * Unity Guys?
-  * Blockchain Guys?
 
 ### Others
 

@@ -6,7 +6,7 @@
 * [Clans](clans.md)
 * [Fukcing DAO](fukcing-dao.md)
 * [Roles](roles.md)
-* [FAQ](faq.md)
+* [Faked Asked Questions (FAQ)](faked-asked-questions-faq.md)
 * [Notes](notes.md)
 
 ## Tokenomics

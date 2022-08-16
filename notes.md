@@ -1,8 +1,26 @@
 # Notes
 
-## Problems
+## .!.
 
-*
+* New notes:
+* No free beer at the community event! It is expensive.
+* Total supply: 70,857,567, Lord Supply: 666, Number Of Level: 16
+* domain and subdomain suggestions: .online, .xxx, .xyz, .io xxx is perfect but too expensive. io is expensive too. .online is good. We can set the subdomain as "seriously" instead of "app". It would be Seriously.WeFukc.Online.&#x20;
+* We say people not to mint or select real names as boss. If you do, we have to censor it because it is illegal. Even though if DAO can't remove it, we would censor it.
+* Our contract address should start with "0x46554b43...." Which is equal to FUKC in hex code! Do it with the create2 library. We can make the first 8 char to "46 55 4B 43" which is equal to FUKC in hex. That requires 16^8 = 4,294,967,296 computing power.
+* Contact graffiti groups all around the world and bring them into our community
+*   FDAO token: Contract owner will demand X amount of new token to distribute to the contributors of the last séance. When the owner demand, a voting phase will be open. Holders will vote and after one seance, voting will be closed. The fund will be transfered to the owners account.
+
+    Problem: It is non-tranferable. How we will transfer it to the owner and then the contributors?
+
+    * We may create a minting event for each seance. Owner may pass the Merkle root of that seance which contains the reward of contributors, then contributors may claim it via smart contract (then within the game). But this has another problem: We can create a three-dimensional dynamic array to store senaceNumber, root, MintAmountOfRoot. This would restrict us to make a dynamic distribution. We can't distribute people 1-2-3-4-5-6 FDAO tokens, it would be more like 1-3-5-10-15-20-30-40-50-70-90-120-130 and so on. Or, 1-3-5-10-20-30-50-100-150-200-300-500...
+    * Another alternative might be uploading a three-dimensional array \[proposalID]\[address]\[allowance] to the proposal function. If the DAO approves the proposal, proposalID becomes available to use with a counter. require(proposalID == (approvedProposalID + 1)). In this scenario, the array would be string, we should cast it! TEST: If we read how many tokens are needed to mint by iterating the array, gas fee? Test a different view function and add it to the proposal function.
+* Clan üyelerinin de clan içerisinde rankı olacak. Clan liderleri bu metriğe göre insiyatif alabilir.
+* Clanların da rankı olacak, clan üyelerine biz parayı dağıtırken üyesi olduğu clanın rankı oranınca ödül alır.
+* Kriz yönetim planı hazırla. Kim ne konuşması yapacak vs. neye hemen nasıl müdahale edeceğiz.&#x20;
+* Boss üreticilerine gidecek %2 ödül olmayacak. Boss üretmek teşvik edilmeyecek. Yoksa insanlara bunu kullanma, şunu kullanmak demek zor olur.
+* Boss'u aday olarak seçtirme işini de kaldır. Sadece son seçim kalsın. Aday gösteren adamın da ödül oranını kes.
+* Marketin allocation'ı Comunity allocation ile birleştir. Böylece %5'erden 4 ana gruba dağıtabiliriz: Team, airdrop, community, gamedev.
 
 ## **Notes for this project:**
 

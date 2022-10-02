@@ -5,7 +5,14 @@
 * New notes:
 * No free beer at the community event! It is expensive.
 * Total supply: 70,857,567, Lord Supply: 666, Number Of Level: 16
-* domain and subdomain suggestions: .online, .xxx, .xyz, .io xxx is perfect but too expensive. io is expensive too. .online is good. We can set the subdomain as "seriously" instead of "app". It would be Seriously.WeFukc.Online.&#x20;
+* Vesting, 1yr: 31,556,926 secs, 1 day 86,400 secs, 2yr 10% TGE: 73.048 days, 1yr %10: 36.524 days earlier start time. (stt: start time, t/s: token per second) (token / time)
+  * 80% - 56,686,053 in 5 yrs, no TGE, stt: now, t/s: 359262198098762900 (0.35)
+  * 5% - 3,542,878 in 1 yr, no TGE stt: now, t/s: 112269427003124450 (0.11)
+  * 5% - 3,542,878 in 1 yr, 10% TGE stt: now - 3,155,673, t/s: 112269427003124450 (0.11)
+  * 4% - 2,834,302 in 2 yr, no TGE stt: now, t/s: 44907764463496856 (0.04)
+  * 4% - 2,834,302 in 2 yr, 10% TGE stt: now - 6,311,347, t/s: 44907764463496856 (0.04)
+  * 2% - 1,417,151 in 2 yr, 10% TGE stt: now - 6,311,347, t/s: 22453882231748428 (0.02)
+* domain and subdomain suggestions: .online , .xxx, .xyz, .io xxx is perfect but too expensive. io is expensive too. .online is good. We can set the subdomain as "seriously" instead of "app". It would be Seriously.WeFukc.Online.&#x20;
 * We say people not to mint or select real names as boss. If you do, we have to censor it because it is illegal. Even though if DAO can't remove it, we would censor it.
 * Our contract address should start with "0x46554b43...." Which is equal to FUKC in hex code! Do it with the create2 library. We can make the first 8 char to "46 55 4B 43" which is equal to FUKC in hex. That requires 16^8 = 4,294,967,296 computing power.
 * Contact graffiti groups all around the world and bring them into our community

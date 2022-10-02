@@ -4,16 +4,16 @@ description: Fukcing Token (FUKC)
 
 # FUKC Distribution
 
-**Total Supply:** 128 million FUKC
+**Total Supply:** 70,857,567 FUKC (71 million)
 
 ## Fukcing Token (FUKC) Distribution
 
-* 80% - Gaming Rewards |--- 5 Yrs DLV
-* 4% - Game Development |--- 2 Yrs DLV
-* 4% - Community Tresuary |--- 10% TGE, 2 Yrs DLV
-* 4% - Marketing |--- 10% TGE, 2 Yrs DLV
-* 4% - Testnet Airdrops |--- 10% TGE, 1 Yr MLV
-* 4% - Team |--- 1 Yrs DLV
+* 80% - Gaming Rewards |--- 5 Yrs DLV (56,686,053 FUKC)
+* 4% - Game Development |--- 2 Yrs DLV (2,834,302 FUKC)
+* 4% - Community Tresuary |--- 10% TGE, 2 Yrs DLV (2,834,302 FUKC)
+* 2% - Fukcing DAO |--- 2 Yrs DLV (1,417,151 FUKC)
+* 5% - Testnet Airdrops |--- 10% TGE, 1 Yr MLV (3,542,878 FUKC)
+* 5% - Team |--- 1 Yrs DLV (3,542,878 FUKC)
 
 (DLV: Daily Linear Vesting, MLV: Monthly Linear Vesting, TGE: Token Generation Event)
 

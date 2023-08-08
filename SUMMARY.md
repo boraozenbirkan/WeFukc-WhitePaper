@@ -7,7 +7,6 @@
 * [Fukcing DAO](fukcing-dao.md)
 * [Roles](roles.md)
 * [Faked Asked Questions (FAQ)](faked-asked-questions-faq.md)
-* [Notes](notes.md)
 
 ## Tokenomics
 
